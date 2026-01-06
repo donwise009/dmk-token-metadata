@@ -2,7 +2,7 @@
   "name": "DMK News Bot",
   "symbol": "DMK",
   "description": "DMK News Bot is a real-time crypto and financial news aggregation platform delivering verified market updates via Telegram, web, and AI-powered alerts. The DMK token powers governance, premium features, community incentives, and ecosystem growth.",
-  "image": "https://raw.githubusercontent.com/donwise009/dmk-token-metadata/main/dmk-logo.png",
+  "image": "https://github.com/donwise009/dmk-token-metadata/blob/main/dmk-logo.png",
   "external_url": "https://dmknewsbot.io",
   "attributes": [
     {
@@ -21,7 +21,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/donwise009/dmk-token-metadata/main/dmk-logo.png",
+        "uri": "https://github.com/donwise009/dmk-token-metadata/blob/main/dmk-logo.png",
         "type": "image/png"
       }
     ],
